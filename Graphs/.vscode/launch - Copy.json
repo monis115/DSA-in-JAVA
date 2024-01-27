@@ -1,0 +1,202 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArticulationPoint",
+            "request": "launch",
+            "mainClass": "ArticulationPoint",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BridgeInAGraph",
+            "request": "launch",
+            "mainClass": "BridgeInAGraph",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BellmanFordAlgorithm",
+            "request": "launch",
+            "mainClass": "BellmanFordAlgorithm",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tarjansAlgorithm",
+            "request": "launch",
+            "mainClass": "tarjansAlgorithm",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kosaraju",
+            "request": "launch",
+            "mainClass": "Kosaraju",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimsAlgorithm",
+            "request": "launch",
+            "mainClass": "PrimsAlgorithm",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreadthFirst",
+            "request": "launch",
+            "mainClass": "BreadthFirst",
+            "projectName": "Graphs_bcf7931d"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BellmanFordAlgorithm",
+            "request": "launch",
+            "mainClass": "BellmanFordAlgorithm",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreadthFirst",
+            "request": "launch",
+            "mainClass": "BreadthFirst",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreadthFirstSearchT",
+            "request": "launch",
+            "mainClass": "BreadthFirstSearchT",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreatingAGraph",
+            "request": "launch",
+            "mainClass": "CreatingAGraph",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch DepthFirst",
+            "request": "launch",
+            "mainClass": "DepthFirst",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch DepthFirstSearch",
+            "request": "launch",
+            "mainClass": "DepthFirstSearch",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch DijkstrasAlgo",
+            "request": "launch",
+            "mainClass": "DijkstrasAlgo",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kosaraju",
+            "request": "launch",
+            "mainClass": "Kosaraju",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimsAlgorithm",
+            "request": "launch",
+            "mainClass": "PrimsAlgorithm",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch cycleDirectedGraph",
+            "request": "launch",
+            "mainClass": "cycleDirectedGraph",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch cycleUndirected",
+            "request": "launch",
+            "mainClass": "cycleUndirected",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch djkrasAlgo",
+            "request": "launch",
+            "mainClass": "djkrasAlgo",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch graph1",
+            "request": "launch",
+            "mainClass": "graph1",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch kosarajusAlgorithm",
+            "request": "launch",
+            "mainClass": "kosarajusAlgorithm",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch topologicalSort",
+            "request": "launch",
+            "mainClass": "topologicalSort",
+            "projectName": "Graphs_c89024eb"
+        },
+        {
+            "type": "java",
+            "name": "Launch weightedGraph",
+            "request": "launch",
+            "mainClass": "weightedGraph",
+            "projectName": "Graphs_c89024eb"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lowerCase",
+            "request": "launch",
+            "mainClass": "lowerCase",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "slidingWindow",
+            "request": "launch",
+            "mainClass": "slidingWindow",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "waekestSoldiers",
+            "request": "launch",
+            "mainClass": "waekestSoldiers",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "Nropes",
+            "request": "launch",
+            "mainClass": "Nropes",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "nearByCars",
+            "request": "launch",
+            "mainClass": "nearByCars",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PQ",
+            "request": "launch",
+            "mainClass": "PQ",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "heapSort",
+            "request": "launch",
+            "mainClass": "heapSort",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "heapsorting",
+            "request": "launch",
+            "mainClass": "heapsorting",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "implentationHeap",
+            "request": "launch",
+            "mainClass": "implentationHeap",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "priorityQueue",
+            "request": "launch",
+            "mainClass": "priorityQueue",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "priorityQueueObjects",
+            "request": "launch",
+            "mainClass": "priorityQueueObjects",
+            "projectName": "Heaps_fdde9ecf"
+        },
+        {
+            "type": "java",
+            "name": "sorthingByHeap",
+            "request": "launch",
+            "mainClass": "sorthingByHeap",
+            "projectName": "Heaps_fdde9ecf"
+        }
+    ]
+}
